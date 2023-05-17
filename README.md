@@ -19,7 +19,7 @@ The following dependencies are required to run Textor:
 ## Installation
 1. Clone the repository:
  
-  `git clone https://github.com/your-repo/amazing-text-editor.git`
+  `git clone https://github.com/thegr1ffyn/Textor.git`
 
 2. Navigate to the project directory:
 
