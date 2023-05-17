@@ -1,5 +1,14 @@
 # Textor
                              
+
+        ████████ ███████ ██   ██ ████████  ██████  ██████  
+           ██    ██       ██ ██     ██    ██    ██ ██   ██ 
+           ██    █████     ███      ██    ██    ██ ██████  
+           ██    ██       ██ ██     ██    ██    ██ ██   ██ 
+           ██    ███████ ██   ██    ██     ██████  ██   ██ 
+                                                   
+                                                   
+
 Textor is a GUI-based application written in Python that allows users to create, modify, and delete text files. It provides essential functionalities such as cut, copy, paste, and undo. It also allows users to open any existing text file for editing. The editor includes a graphical user interface and displays the line and column numbers.
 
 ## Features
